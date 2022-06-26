@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetML", "dotnetML\dotnetML.csproj", "{2F2AE893-3C1F-4FD2-B1C7-0B16D79851D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IrisClassification", "IrisClassification\IrisClassification.csproj", "{C08865EB-572D-4910-BB3B-47070C28992A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F2AE893-3C1F-4FD2-B1C7-0B16D79851D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F2AE893-3C1F-4FD2-B1C7-0B16D79851D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F2AE893-3C1F-4FD2-B1C7-0B16D79851D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F2AE893-3C1F-4FD2-B1C7-0B16D79851D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C08865EB-572D-4910-BB3B-47070C28992A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C08865EB-572D-4910-BB3B-47070C28992A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C08865EB-572D-4910-BB3B-47070C28992A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C08865EB-572D-4910-BB3B-47070C28992A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
